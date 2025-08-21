@@ -14,7 +14,7 @@ The difference between Git and Github is that Git is useful tool to monitor chan
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Commiting and pushing means to write what you are gonna change and pushing is executing he changes this is important because]
+[Commiting and pushing means to write what you are gonna change and pushing is executing the changes this is important because it limits the bugs in your code/ makes it so that when a bug occurs you can trace back your steps.
 
 **3. What is a repository and what does it contain?**
 
