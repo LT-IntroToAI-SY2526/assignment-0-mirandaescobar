@@ -27,7 +27,7 @@ A repository is like a project folder, it contaions all of the files and there r
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/mirandaescobar/mirandaescobar
 
 ---
 
